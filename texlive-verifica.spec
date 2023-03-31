@@ -1,6 +1,6 @@
 Name:		texlive-verifica
 Version:	56625
-Release:	1
+Release:	2
 Summary:	Typeset (Italian high school) exercises
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/verifica
