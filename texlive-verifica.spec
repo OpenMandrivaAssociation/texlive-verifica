@@ -3,7 +3,7 @@ Version:	56625
 Release:	2
 Summary:	Typeset (Italian high school) exercises
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/verifica
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/verifica
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/verifica.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/verifica.doc.r%{version}.tar.xz
